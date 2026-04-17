@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nome": "Mariana Souza",
+    "cargo": "Atendente",
+    "salario": 1850.50,
+    "dataContatacao": "2022-03-15",
+    "avatar": "https://images.icon-icons.com/2643/PNG/512/female_woman_person_people_avatar_icon_159366.png"
+  },
+  {
+    "id": 2,
+    "nome": "Henrique Pereira",
+    "cargo": "Lavador",
+    "salario": 2100.00,
+    "dataContatacao": "2021-11-02",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoFYEP2PQPUJU3nPOMicXDHV8ULpvz9ccn4g&s"
+  },
+  {
+    "id": 3,
+    "nome": "Aline Alves",
+    "cargo": "Passadeira",
+    "salario": 1950.75,
+    "dataContatacao": "2023-01-20",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXRqoZG_6ccmI8VKwHyBiJj0ki7zVtzJP1qA&s"
+  },
+  {
+    "id": 4,
+    "nome": "Adriano Couto",
+    "cargo": "Gerente",
+    "salario": 3500.00,
+    "dataContatacao": "2020-08-10",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/6858/6858485.png"
+  },
+  {
+    "id": 5,
+    "nome": "Angela Silva",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1700.00,
+    "dataContatacao": "2024-02-05",
+    "avatar": "https://png.pngtree.com/png-vector/20190501/ourmid/pngtree-vector-woman-icon-png-image_1018130.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Ricardo Alves",
+    "cargo": "Motorista",
+    "salario": 2200.30,
+    "dataContatacao": "2022-07-18",
+    "avatar": "hhttps://cdn-icons-png.flaticon.com/512/6858/6858504.png"
+  },
+  {
+    "id": 7,
+    "nome": "Patrícia Gomes",
+    "cargo": "Atendente",
+    "salario": 1820.00,
+    "dataContatacao": "2023-06-12",
+    "avatar": "https://images.icon-icons.com/2643/PNG/512/female_woman_person_people_avatar_icon_159366.png"
+  },
+  {
+    "id": 8,
+    "nome": "Eduardo Martins",
+    "cargo": "Técnico de Manutenção",
+    "salario": 2800.90,
+    "dataContatacao": "2021-04-25",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/147/147142.png"
+  },
+  {
+    "id": 9,
+    "nome": "Juliana Freitas",
+    "cargo": "Passadeira",
+    "salario": 2000.00,
+    "dataContatacao": "2022-09-30",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzwB2rC9wtLMWubGaTIP-La_M3FZtYw-CH_Q&s"
+  },
+  {
+    "id": 10,
+    "nome": "Lucas Ribeiro",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1750.60,
+    "dataContatacao": "2024-05-14",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNNm07H3-I5BEM6cBs7SGsj6exTnTA18YA1w&s"
+  }
+]
