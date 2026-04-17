@@ -29,6 +29,11 @@ Este projeto faz parte da aprendizagem continua do curso Densenvolvimento de Sis
 
 As imagens do aplicativo estão disponíveis na pasta `assets/`.
 
+| Tela | Descrição | Imagem |
+|------|----------|--------|
+| Splash | Tela Splash com animação | <img src="./assets/info/01.png" width="200" height="450"/> |
+| Home | Tela Home com dropdown | <img src="./assets/info/02.png" width="200" height="450"/> |
+| Card | Card com informações do funcionário | <img src="./assets/info/03.png" width="200" height="450"/> |
 ---
 
 ## 🛠 Tecnologias utilizadas
