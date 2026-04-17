@@ -29,20 +29,6 @@ Este projeto faz parte da aprendizagem continua do curso Densenvolvimento de Sis
 
 As imagens do aplicativo estão disponíveis na pasta `assets/`.
 
-Exemplos de telas:
-
-- Tela Splash com animação  
-
-
-
-- Tela Home com dropdown
-
-
-
-- Cards dos Funcionarios 
-
-
-
 ---
 
 ## 🛠 Tecnologias utilizadas
